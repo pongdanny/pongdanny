@@ -14,4 +14,4 @@
 
 💯 Snapple Facts: 🇰🇷  born 🇺🇸 , NYC is all I know 🗽 and I like to rap 🎙️
 
-“The only thing standing between you and your goal is the bulls*** story you keep telling yourself as to why you can't achieve it.” ― Jordan Belfort
+“The only thing standing between you and your goal is the bulls*** story you keep telling yourself as to why you can't achieve it.” 
