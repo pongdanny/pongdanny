@@ -6,7 +6,7 @@
 
 🤼 Always looking to collaborate with fellow great minds! 🧠
 
-🙋 I need help with Unity, I'm trying to recreate a 5v5 PvP map 🎮
+🙋 Need some consultation on Unity, I'm trying to recreate a 5v5 PvP map 🎮
 
 🤔 Yeah so I'm not that interesting but if you're curious, AMA! 💬 
 
