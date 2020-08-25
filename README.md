@@ -2,7 +2,7 @@
 
 🚀 Right now I'm aiming to add Full Stack Web Development under my belt 💪
 
-💻 I’m currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
+💻 Currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
 
 🤼 Always looking to collaborate with fellow great minds! 🧠
 
