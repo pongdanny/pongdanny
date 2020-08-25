@@ -1,16 +1,17 @@
-### Hi there 👋
+### Yo✌️
 
-<!--
-**pongdanny/pongdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Right now I'm aiming to add Full Stack Web Development under my belt 💪
 
-Here are some ideas to get you started:
+💻 I’m currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤼 Always looking to collaborate with fellow great minds! 🧠
+
+🙋 I need help with Unity, I'm trying to recreate a 5v5 PvP map 🎮
+
+🤔 Yeah so I'm not that interesting but if you're curious, AMA! 💬 
+
+📮 How to reach me: pongdaniel17@gmail.com 📨
+
+💯 Snapple Facts: 🇰🇷  born 🇺🇸 , NYC is all I know 🗽 and I like to rap 🎙️
+
+“The only thing standing between you and your goal is the bulls*** story you keep telling yourself as to why you can't achieve it.” ― Jordan Belfort
