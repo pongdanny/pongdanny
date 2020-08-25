@@ -10,7 +10,7 @@
 
 🤔 Yeah so I'm not that interesting but if you're curious, AMA! 💬 
 
-📮 How to reach me: pongdaniel17@gmail.com 📨
+📮 Hit Me Up: pongdaniel17@gmail.com 📨
 
 💯 Snapple Facts: 🇰🇷  born 🇺🇸 , NYC is all I know 🗽 and I like to rap 🎙️
 
