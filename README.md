@@ -12,5 +12,5 @@ My Page: https://pongdanny.github.io/ 🙈 (STILL IN THE WORKS⚙️)
 
 📮 Hit Me Up: pongdaniel17@gmail.com 📨
 
-💯 Snapple Facts: 🇰🇷  born 🇺🇸 , reppin NYC 🗽 and I like to rap 🎙️
+💯 Snapple Facts: 🇰🇷  born 🇺🇸 , reppin NY 🗽 and I like to rap 🎙️
 
