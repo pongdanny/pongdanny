@@ -1,4 +1,4 @@
-### Yo!✌️
+Welcome!
 
 My Page: https://pongdanny.github.io/ 🙈 (STILL IN THE WORKS⚙️)
 
@@ -8,12 +8,9 @@ My Page: https://pongdanny.github.io/ 🙈 (STILL IN THE WORKS⚙️)
 
 🤼 Always looking to collaborate with fellow great minds! 🧠
 
-🙋 Need some consultation on Unity, I'm trying to recreate a 5v5 PvP map 🎮
-
-🤔 Yeah so I'm not that interesting but if you're curious, AMA! 💬 
+🙋 Need some help with Unity, I'm trying to recreate a 5v5 map 🎮
 
 📮 Hit Me Up: pongdaniel17@gmail.com 📨
 
-💯 Snapple Facts: 🇰🇷  born 🇺🇸 , NYC is all I know 🗽 and I like to rap 🎙️
+💯 Snapple Facts: 🇰🇷  born 🇺🇸 , reppin NYC 🗽 and I like to rap 🎙️
 
-“The only thing standing between you and your goal is the bulls*** story you keep telling yourself as to why you can't achieve it.” 
