@@ -6,11 +6,5 @@ My Page: https://pongdanny.github.io/ 🙈 (STILL IN THE WORKS⚙️)
 
 💻 Currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
 
-🤼 Always looking to collaborate with fellow great minds! 🧠
-
-🙋 Need some help with Unity or Unreal, I'm trying to recreate a 5v5 map 🎮
-
-📮 Hit Me Up: pongdaniel17@gmail.com 📨
-
 💯 Snapple Facts: 🇰🇷  born 🇺🇸 , reppin NY 🗽 and I like to rap 🎙️
 
