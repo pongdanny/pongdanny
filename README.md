@@ -6,5 +6,5 @@ My Page: https://pongdanny.github.io/ 🙈 (STILL IN THE WORKS⚙️)
 
 💻 Currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
 
-💯 Snapple Facts: 🇰🇷  born 🇺🇸 , reppin Queens 🗽 and I like to rap 🎙️
+🗽 Queens Get The Money 💯 
 
