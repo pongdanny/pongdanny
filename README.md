@@ -1,4 +1,12 @@
-💻 Currently attending a/A to learn Python, JavaScript, React, Redux & SQL 🤓
+Originally from a hospitality/sales background, I’ve transitioned into full-stack web development. 
+Dedicated towards client satisfaction, I strive to become a proficient software engineer!
+
+💻 Currently attending App Academy 🤓
+
+Also, if you're looking for me I'm probably on Stack Overflow somewhere looking for answers 👨‍💻
+
+<a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-Lets%20Link-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
