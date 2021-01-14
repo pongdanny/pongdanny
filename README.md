@@ -1,10 +1,11 @@
 <a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-Lets%20Link-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-Originally from a hospitality/sales background, I’ve transitioned into full-stack web development. 
-Dedicated towards client satisfaction, I strive to become a proficient software engineer!
+Originally from a hospitality background, I’ve transitioned into full-stack web development. 
+Ever since I began my journey in coding, its been an exciting learning process everyday!
+I hope to develop some great applications in the near future 💻 
 
-💻 Currently attending App Academy 🤓
+Currently attending App Academy 🤓
 
 Also, if you're looking for me I'm probably on Stack Overflow somewhere looking for answers 👨‍💻
 
