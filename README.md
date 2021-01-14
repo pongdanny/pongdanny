@@ -20,3 +20,5 @@ Also, if you're looking for me I'm probably on Stack Overflow somewhere looking 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+[![danny's Github Stats](https://github-readme-stats.vercel.app/api?username=pongdanny&theme=tokyonight)](https://github.com/pongdanny/github-readme-stats)
