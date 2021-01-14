@@ -1,6 +1,8 @@
 <a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-Lets%20Link-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
+Hey There! 👋
+
 Originally from a hospitality background, I’ve transitioned into full-stack web development.
 
 Ever since I began my journey in coding, its been an exciting learning process everyday!
@@ -25,14 +27,11 @@ Also, if you're looking for me I'm probably on Stack Overflow somewhere looking 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 
 
-
-
-
-
-
-
-
+# Github Stats
 
 [![danny's Github Stats](https://github-readme-stats.vercel.app/api?username=pongdanny&theme=tokyonight)](https://github.com/pongdanny/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pongdanny&theme=onedark)](https://github.com/pongdanny/github-profile-trophy)
+
 
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny/ama)
