@@ -34,4 +34,4 @@ Also, if you're looking for me I'm probably on Stack Overflow somewhere looking 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pongdanny&theme=onedark)](https://github.com/pongdanny/github-profile-trophy)
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny/ama) 
