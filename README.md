@@ -5,13 +5,11 @@ Hey There! 👋
 
 Originally from a hospitality background, I’ve transitioned into full-stack web development.
 
-Ever since I began my journey in coding, its been an exciting learning process everyday!
+Ever since I began my journey in coding, its been an exciting learning process everyday!👨‍💻
 
 I hope to develop some great applications in the near future 💻 
 
 Currently attending App Academy 🤓
-
-Also, if you're looking for me I'm probably on Stack Overflow somewhere looking for answers 👨‍💻
 
 # Proficient
 
