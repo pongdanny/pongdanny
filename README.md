@@ -3,13 +3,11 @@
 
 Hey There! 👋
 
-Originally from a hospitality background, I’ve transitioned into full-stack web development.
+Originally from a hospitality background, I’ve transitioned into full-stack web development 💻
 
-Ever since I began my journey in coding, its been an exciting learning process everyday!👨‍💻
+Ever since I began my journey in coding, its been an exciting learning process everyday! 🤓
 
-I hope to develop some great applications in the near future 💻 
-
-Currently attending App Academy 🤓
+I hope to develop some great applications in the near future 👨‍💻
 
 # Proficient
 
@@ -23,7 +21,6 @@ Currently attending App Academy 🤓
 # Other Tools/Technologies
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-
 
 # Github Stats
 
