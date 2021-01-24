@@ -7,7 +7,7 @@ Originally from a hospitality background, I’ve transitioned into full-stack we
 
 Ever since I began my journey in coding, its been an exciting learning process everyday! 🤓
 
-I hope to develop some great applications in the near future 👨‍💻
+I hope to develop many innovative applications in the near future 👨‍💻
 
 # Proficient
 
