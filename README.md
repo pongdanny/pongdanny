@@ -29,4 +29,4 @@ I hope to develop many innovative applications in the near future 👨‍💻
 [![trophy](https://github-profile-trophy.vercel.app/?username=pongdanny&theme=onedark)](https://github.com/pongdanny/github-profile-trophy)
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny/ama) 
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny) 
