@@ -5,7 +5,7 @@ Originally from a hospitality background, I’ve transitioned into full-stack we
 
 Ever since I began my journey in coding, its been an exciting learning process everyday! 👨‍💻
 
-## Proficient
+## Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)\
