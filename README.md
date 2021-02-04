@@ -15,7 +15,7 @@ Ever since I began my journey in coding, its been an exciting learning process e
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)\
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)\
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)\
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)\
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 
 ## Github Stats
 
