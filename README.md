@@ -15,10 +15,7 @@ Ever since I began my journey in coding, its been an exciting learning process e
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)\
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)\
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)\
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)\
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Github Stats
 
