@@ -17,7 +17,7 @@ Ever since I began my journey in coding, its been an exciting learning process e
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)\
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 
-## Github Stats
+## GitHub Stats
 
 [![danny's Github Stats](https://github-readme-stats.vercel.app/api?username=pongdanny&theme=tokyonight)](https://github.com/pongdanny/github-readme-stats)
 
