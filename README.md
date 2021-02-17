@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-Lets%20Link-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 Originally from a hospitality background, I’ve transitioned into full-stack web development 💻
 
 Ever since I began my journey in coding, its been an exciting learning process everyday! 👨‍💻
@@ -20,3 +17,6 @@ Ever since I began my journey in coding, its been an exciting learning process e
 ## GitHub Stats
 
 [![danny's Github Stats](https://github-readme-stats.vercel.app/api?username=pongdanny&theme=tokyonight)](https://github.com/pongdanny/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-Lets%20Link-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
