@@ -20,5 +20,3 @@ Ever since I began my journey in coding, its been an exciting learning process e
 ## GitHub Stats
 
 [![danny's Github Stats](https://github-readme-stats.vercel.app/api?username=pongdanny&theme=tokyonight)](https://github.com/pongdanny/github-readme-stats)
-
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://GitHub.com/pongdanny) 
