@@ -1,5 +1,4 @@
 ### Originally from a hospitality background, I’ve transitioned into full-stack web development 💻
-
 ### Ever since I began my journey in coding, its been an exciting learning process everyday! 👨‍💻
 
 ## Technologies
