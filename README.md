@@ -3,9 +3,9 @@
 
 ### Originally from a hospitality background, I’ve transitioned into full stack web development 💻
 
-### Ever since I began my journey in coding, its been an exciting learning process everyday! 👨‍💻
+### Ever since I began my journey in software engineering, its been an exciting learning process everyday! 👨‍💻
 
-## Skills/Technologies
+## Skills / Technologies
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)\
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)\
