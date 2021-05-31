@@ -1,9 +1,9 @@
 <a href="mailto:pongdaniel17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/danielpong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-### Welcome! 💻
+### Welcome 💻
 
-### Since I began my journey in software engineering, its been an exciting learning process everyday! 👨‍💻
+### Since I began my journey in software engineering, its been an exciting learning process everyday! I hope to build some awesome websites in the near future 👨‍💻
 
 ## Skills / Technologies
 
