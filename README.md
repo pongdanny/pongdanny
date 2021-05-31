@@ -3,7 +3,7 @@
 
 ### Welcome 💻
 
-### Since I began my journey in software engineering, its been an exciting learning process everyday! I hope to build some awesome websites in the near future 👨‍💻
+### Since I began my journey in software engineering, it's been an exciting learning process everyday! I hope to build some awesome websites in the near future 👨‍💻
 
 ## Skills / Technologies
 
