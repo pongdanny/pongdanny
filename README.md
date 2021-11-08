@@ -3,8 +3,6 @@
 
 ### Welcome 💻
 
-### Since I began my journey in software engineering, it's been an exciting learning process everyday! I hope to build some awesome websites in the near future 👨‍💻
-
 ## Skills / Technologies
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)\
